@@ -1,2 +1,4 @@
 This is a text file 
 Edited by Women
+For adding a file : Add->status->commit->push
+For updating a file : Status->commit->push
